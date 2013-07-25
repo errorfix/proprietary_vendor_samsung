@@ -19,6 +19,21 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/i9500/proprietary/vendor/firmware/srp_cga.bin:system/vendor/firmware/srp_cga.bin \
     vendor/samsung/i9500/proprietary/vendor/firmware/srp_data.bin:system/vendor/firmware/srp_data.bin \
     vendor/samsung/i9500/proprietary/vendor/firmware/srp_vliw.bin:system/vendor/firmware/srp_vliw.bin \
+    vendor/samsung/i9500/proprietary/lib/hw/audio_policy.universal5410.so:system/lib/hw/audio_policy.universal5410.so \
+    vendor/samsung/i9500/proprietary/lib/hw/audio.primary.universal5410.so:system/lib/hw/audio.primary.universal5410.so \
+    vendor/samsung/i9500/proprietary/lib/libaudio-ril.so:system/lib/libaudio-ril.so \
+    vendor/samsung/i9500/proprietary/lib/libaudiopolicy_sec.so:system/lib/libaudiopolicy_sec.so \
+    vendor/samsung/i9500/proprietary/lib/libcontrolcsc.so:system/lib/libcontrolcsc.so \
+    vendor/samsung/i9500/proprietary/lib/lib_DNSe_NRSS_ver224b.so:system/lib/lib_DNSe_NRSS_ver224b.so \
+    vendor/samsung/i9500/proprietary/lib/lib_DNSe_EP_ver214.so:system/lib/lib_DNSe_EP_ver214.so \
+    vendor/samsung/i9500/proprietary/lib/lib_Samsung_SB_AM_for_ICS_v04004.so:system/lib/lib_Samsung_SB_AM_for_ICS_v04004.so \
+    vendor/samsung/i9500/proprietary/lib/lib_Samsung_Resampler.so:system/lib/lib_Samsung_Resampler.so \
+    vendor/samsung/i9500/proprietary/lib/lib_SamsungRec_V03010.so:system/lib/lib_SamsungRec_V03010.so \
+    vendor/samsung/i9500/proprietary/lib/libsamsungearcare.so:system/lib/libsamsungearcare.so \
+    vendor/samsung/i9500/proprietary/lib/libsamsungRecord.so:system/lib/libsamsungRecord.so \
+    vendor/samsung/i9500/proprietary/lib/libsamsungRecord_ns.so:system/lib/libsamsungRecord_ns.so \
+    vendor/samsung/i9500/proprietary/lib/libsamsungSoundbooster.so:system/lib/libsamsungSoundbooster.so \
+    vendor/samsung/i9500/proprietary/lib/libtinyalsa.so:system/lib/libtinyalsa.so \
     vendor/samsung/i9500/proprietary/vendor/firmware/bcm4335.hcd:system/vendor/firmware/bcm4335.hcd \
     vendor/samsung/i9500/proprietary/vendor/firmware/bcm4335_A0.hcd:system/vendor/firmware/bcm4335_A0.hcd \
     vendor/samsung/i9500/proprietary/vendor/firmware/bcm4335_murata.hcd:system/vendor/firmware/bcm4335_murata.hcd \
