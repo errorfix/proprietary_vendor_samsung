@@ -71,6 +71,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/i9500/proprietary/vendor/firmware/setfile_sec_imx135.bin:system/vendor/firmware/setfile_sec_imx135.bin \
     vendor/samsung/i9500/proprietary/vendor/firmware/bcm2079xB4_firmware.ncd:system/vendor/firmware/bcm2079xB4_firmware.ncd \
     vendor/samsung/i9500/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd:system/vendor/firmware/bcm2079xB4_pre_firmware.ncd \
+    vendor/samsung/i9500/proprietary/bin/cbd:system/bin/cbd \
     vendor/samsung/i9500/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/i9500/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/i9500/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
