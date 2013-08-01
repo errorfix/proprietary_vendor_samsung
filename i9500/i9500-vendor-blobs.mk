@@ -48,6 +48,52 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/i9500/proprietary/vendor/lib/hw/hwcomposer.exynos5.so:system/vendor/lib/hw/hwcomposer.exynos5.so \
     vendor/samsung/i9500/proprietary/lib/libExynosHWCService.so:system/lib/libExynosHWCService.so \
     vendor/samsung/i9500/proprietary/lib/libfimg.so:system/lib/libfimg.so \
+    vendor/samsung/i9500/proprietary/bin/lpmkey:system/bin/lpmkey \
+    vendor/samsung/i9500/proprietary/bin/playlpm:system/bin/playlpm \
+    vendor/samsung/i9500/proprietary/media/Disconnected.qmg:system/media/Disconnected.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_batteryerror.qmg:system/media/battery_batteryerror.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_charging_5.qmg:system/media/battery_charging_5.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_charging_10.qmg:system/media/battery_charging_10.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_charging_15.qmg:system/media/battery_charging_15.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_charging_20.qmg:system/media/battery_charging_20.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_charging_25.qmg:system/media/battery_charging_25.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_charging_30.qmg:system/media/battery_charging_30.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_charging_35.qmg:system/media/battery_charging_35.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_charging_40.qmg:system/media/battery_charging_40.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_charging_45.qmg:system/media/battery_charging_45.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_charging_50.qmg:system/media/battery_charging_50.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_charging_55.qmg:system/media/battery_charging_55.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_charging_60.qmg:system/media/battery_charging_60.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_charging_65.qmg:system/media/battery_charging_65.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_charging_70.qmg:system/media/battery_charging_70.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_charging_75.qmg:system/media/battery_charging_75.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_charging_80.qmg:system/media/battery_charging_80.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_charging_85.qmg:system/media/battery_charging_85.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_charging_90.qmg:system/media/battery_charging_90.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_charging_95.qmg:system/media/battery_charging_95.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_charging_100.qmg:system/media/battery_charging_100.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_error.qmg:system/media/battery_error.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_wireless_charging_10.qmg:system/media/battery_wireless_charging_10.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_wireless_charging_100.qmg:system/media/battery_wireless_charging_100.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_wireless_charging_15.qmg:system/media/battery_wireless_charging_15.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_wireless_charging_20.qmg:system/media/battery_wireless_charging_20.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_wireless_charging_25.qmg:system/media/battery_wireless_charging_25.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_wireless_charging_30.qmg:system/media/battery_wireless_charging_30.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_wireless_charging_35.qmg:system/media/battery_wireless_charging_35.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_wireless_charging_40.qmg:system/media/battery_wireless_charging_40.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_wireless_charging_45.qmg:system/media/battery_wireless_charging_45.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_wireless_charging_5.qmg:system/media/battery_wireless_charging_5.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_wireless_charging_50.qmg:system/media/battery_wireless_charging_50.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_wireless_charging_55.qmg:system/media/battery_wireless_charging_55.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_wireless_charging_60.qmg:system/media/battery_wireless_charging_60.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_wireless_charging_65.qmg:system/media/battery_wireless_charging_65.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_wireless_charging_70.qmg:system/media/battery_wireless_charging_70.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_wireless_charging_75.qmg:system/media/battery_wireless_charging_75.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_wireless_charging_80.qmg:system/media/battery_wireless_charging_80.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_wireless_charging_85.qmg:system/media/battery_wireless_charging_85.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_wireless_charging_90.qmg:system/media/battery_wireless_charging_90.qmg \
+    vendor/samsung/i9500/proprietary/media/battery_wireless_charging_95.qmg:system/media/battery_wireless_charging_95.qmg \
+    vendor/samsung/i9500/proprietary/media/chargingwarning.qmg:system/media/chargingwarning.qmg \
     vendor/samsung/i9500/proprietary/vendor/firmware/fimc_is_gumi_fw2.bin:system/vendor/firmware/fimc_is_gumi_fw2.bin \
     vendor/samsung/i9500/proprietary/vendor/firmware/fimc_is_sec_fw2.bin:system/vendor/firmware/fimc_is_sec_fw2.bin \
     vendor/samsung/i9500/proprietary/vendor/firmware/mfc_fw.bin:system/vendor/firmware/mfc_fw.bin \
