@@ -43,6 +43,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/i9500/proprietary/vendor/bin/pvrsrvctl:system/vendor/bin/pvrsrvctl \
     vendor/samsung/i9500/proprietary/bin/gpsd:system/bin/gpsd \
     vendor/samsung/i9500/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
+    vendor/samsung/i9500/proprietary/lib/libwrappergps.so:system/lib/libwrappergps.so \
     vendor/samsung/i9500/proprietary/vendor/lib/hw/gralloc.exynos5.so:system/vendor/lib/hw/gralloc.exynos5.so \
     vendor/samsung/i9500/proprietary/vendor/lib/hw/hwcomposer.exynos5.so:system/vendor/lib/hw/hwcomposer.exynos5.so \
     vendor/samsung/i9500/proprietary/lib/libExynosHWCService.so:system/lib/libExynosHWCService.so \
@@ -60,6 +61,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/i9500/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/i9500/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/i9500/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
+    vendor/samsung/i9500/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/i9500/proprietary/lib/hw/sensors.universal5410.so:system/lib/hw/sensors.universal5410.so \
     vendor/samsung/i9500/proprietary/lib/libakm.so:system/lib/libakm.so \
     vendor/samsung/i9500/proprietary/lib/libsensirion_j1.so:system/lib/libsensirion_j1.so \
