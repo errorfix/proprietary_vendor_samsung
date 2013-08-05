@@ -104,11 +104,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/i9500/proprietary/vendor/firmware/bcm2079xB4_firmware.ncd:system/vendor/firmware/bcm2079xB4_firmware.ncd \
     vendor/samsung/i9500/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd:system/vendor/firmware/bcm2079xB4_pre_firmware.ncd \
     vendor/samsung/i9500/proprietary/bin/cbd:system/bin/cbd \
-    vendor/samsung/i9500/proprietary/bin/rild:system/bin/rild \
-    vendor/samsung/i9500/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/i9500/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/i9500/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
-    vendor/samsung/i9500/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/i9500/proprietary/lib/hw/sensors.universal5410.so:system/lib/hw/sensors.universal5410.so \
     vendor/samsung/i9500/proprietary/lib/libakm.so:system/lib/libakm.so \
     vendor/samsung/i9500/proprietary/lib/libsensirion_j1.so:system/lib/libsensirion_j1.so \
