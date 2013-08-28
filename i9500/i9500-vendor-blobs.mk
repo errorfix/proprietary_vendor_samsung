@@ -24,11 +24,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/i9500/proprietary/vendor/firmware/bcm4335_murata.hcd:system/vendor/firmware/bcm4335_murata.hcd \
     vendor/samsung/i9500/proprietary/vendor/firmware/bcm4335_semco.hcd:system/vendor/firmware/bcm4335_semco.hcd \
     vendor/samsung/i9500/proprietary/lib/hw/vendor-camera.universal5410.so:system/lib/hw/vendor-camera.universal5410.so \
-    vendor/samsung/i9500/proprietary/lib/libcsc.so:system/lib/libcsc.so \
     vendor/samsung/i9500/proprietary/lib/libexynoscamera.so:system/lib/libexynoscamera.so \
-    vendor/samsung/i9500/proprietary/lib/libexynosutils.so:system/lib/libexynosutils.so \
-    vendor/samsung/i9500/proprietary/lib/libexynosv4l2.so:system/lib/libexynosv4l2.so \
-    vendor/samsung/i9500/proprietary/lib/libhwjpeg.so:system/lib/libhwjpeg.so \
     vendor/samsung/i9500/proprietary/lib/libvdis.so:system/lib/libvdis.so \
     vendor/samsung/i9500/proprietary/vendor/lib/egl/libEGL_POWERVR_SGX544_115.so:system/vendor/lib/egl/libEGL_POWERVR_SGX544_115.so \
     vendor/samsung/i9500/proprietary/vendor/lib/egl/libGLESv1_CM_POWERVR_SGX544_115.so:system/vendor/lib/egl/libGLESv1_CM_POWERVR_SGX544_115.so \
