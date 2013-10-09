@@ -31,10 +31,10 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/i9500/proprietary/vendor/lib/egl/libGLESv2_POWERVR_SGX544_115.so:system/vendor/lib/egl/libGLESv2_POWERVR_SGX544_115.so \
     vendor/samsung/i9500/proprietary/vendor/lib/libglslcompiler.so:system/vendor/lib/libglslcompiler.so \
     vendor/samsung/i9500/proprietary/vendor/lib/libIMGegl.so:system/vendor/lib/libIMGegl.so \
-    vendor/samsung/i9500/proprietary/vendor/lib/liblvverx_3.18.03.so:system/vendor/lib/liblvverx_3.18.03.so \
-    vendor/samsung/i9500/proprietary/vendor/lib/liblvvetx_3.18.03.so:system/vendor/lib/liblvvetx_3.18.03.so \
+    vendor/samsung/i9500/proprietary/vendor/lib/liboclcompiler.so:system/vendor/lib/liboclcompiler.so \
     vendor/samsung/i9500/proprietary/vendor/lib/libpvr2d.so:system/vendor/lib/libpvr2d.so \
     vendor/samsung/i9500/proprietary/vendor/lib/libpvrANDROID_WSEGL.so:system/vendor/lib/libpvrANDROID_WSEGL.so \
+    vendor/samsung/i9500/proprietary/vendor/lib/libPVROCL.so:system/vendor/lib/libPVROCL.so \
     vendor/samsung/i9500/proprietary/vendor/lib/libPVRScopeServices.so:system/vendor/lib/libPVRScopeServices.so \
     vendor/samsung/i9500/proprietary/vendor/lib/libsrv_init.so:system/vendor/lib/libsrv_init.so \
     vendor/samsung/i9500/proprietary/vendor/lib/libsrv_um.so:system/vendor/lib/libsrv_um.so \
